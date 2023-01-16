@@ -1,4 +1,4 @@
-module qiublog
+module winbkblog
 
 go 1.19
 
